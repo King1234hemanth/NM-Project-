@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "50 Rs.",
+    "category": "new",
+    "image": "./img/story_book.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "30 Rs.",
+    "category": "new",
+    "image": "./img/comedy_book.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "80 Rs.",
+    "category": "new",
+    "image": "./img/Sports_Books.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Food Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "100 Rs.",
+    "category": "new",
+    "image": "./img/food_book.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Historical Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "50 Rs.",
+    "category": "new",
+    "image": "./img/historical_book.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "GK Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "50 Rs.",
+    "category": "new",
+    "image": "./img/gk_book.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Funny Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "100 Rs.",
+    "category": "new",
+    "image": "./img/funny_book.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "Math Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "250 Rs.",
+    "category": "new",
+    "image": "./img/math_book.jpg"
+  },
+
+  {
+    "id": 9,
+    "name": "Poem Book",
+    "title": " Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "price": "100 Rs.",
+    "category": "new",
+    "image": "./img/poem_book.jpg"
+  }
+]
