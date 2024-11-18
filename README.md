@@ -1,2 +1,1 @@
-# NM-Project-
-NM project particularly known as BookStore website
+# BookStore_Project_in_Mern_Stack
